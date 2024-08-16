@@ -1,0 +1,15 @@
+C:\Users\sneyk\source\repos\Mapa de guia Semana-1\Hola, mundo\bin\Debug\net6.0\Hola, mundo.exe
+C:\Users\sneyk\source\repos\Mapa de guia Semana-1\Hola, mundo\bin\Debug\net6.0\Hola, mundo.deps.json
+C:\Users\sneyk\source\repos\Mapa de guia Semana-1\Hola, mundo\bin\Debug\net6.0\Hola, mundo.runtimeconfig.json
+C:\Users\sneyk\source\repos\Mapa de guia Semana-1\Hola, mundo\bin\Debug\net6.0\Hola, mundo.dll
+C:\Users\sneyk\source\repos\Mapa de guia Semana-1\Hola, mundo\bin\Debug\net6.0\Hola, mundo.pdb
+C:\Users\sneyk\source\repos\Mapa de guia Semana-1\Hola, mundo\obj\Debug\net6.0\Hola, mundo.csproj.AssemblyReference.cache
+C:\Users\sneyk\source\repos\Mapa de guia Semana-1\Hola, mundo\obj\Debug\net6.0\Hola, mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sneyk\source\repos\Mapa de guia Semana-1\Hola, mundo\obj\Debug\net6.0\Hola, mundo.AssemblyInfoInputs.cache
+C:\Users\sneyk\source\repos\Mapa de guia Semana-1\Hola, mundo\obj\Debug\net6.0\Hola, mundo.AssemblyInfo.cs
+C:\Users\sneyk\source\repos\Mapa de guia Semana-1\Hola, mundo\obj\Debug\net6.0\Hola, mundo.csproj.CoreCompileInputs.cache
+C:\Users\sneyk\source\repos\Mapa de guia Semana-1\Hola, mundo\obj\Debug\net6.0\Hola, mundo.dll
+C:\Users\sneyk\source\repos\Mapa de guia Semana-1\Hola, mundo\obj\Debug\net6.0\refint\Hola, mundo.dll
+C:\Users\sneyk\source\repos\Mapa de guia Semana-1\Hola, mundo\obj\Debug\net6.0\Hola, mundo.pdb
+C:\Users\sneyk\source\repos\Mapa de guia Semana-1\Hola, mundo\obj\Debug\net6.0\Hola, mundo.genruntimeconfig.cache
+C:\Users\sneyk\source\repos\Mapa de guia Semana-1\Hola, mundo\obj\Debug\net6.0\ref\Hola, mundo.dll
