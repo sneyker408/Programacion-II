@@ -1,0 +1,15 @@
+C:\Users\kzela\OneDrive\Escritorio\Programacion-II\Guia de proyectos\Semana 1\Mapa de Guías LinQ\LinQ con Objetos\LinQ con Objetos\LinQ con Objetos\bin\Debug\net8.0\IntroduccionLinq.exe
+C:\Users\kzela\OneDrive\Escritorio\Programacion-II\Guia de proyectos\Semana 1\Mapa de Guías LinQ\LinQ con Objetos\LinQ con Objetos\LinQ con Objetos\bin\Debug\net8.0\IntroduccionLinq.deps.json
+C:\Users\kzela\OneDrive\Escritorio\Programacion-II\Guia de proyectos\Semana 1\Mapa de Guías LinQ\LinQ con Objetos\LinQ con Objetos\LinQ con Objetos\bin\Debug\net8.0\IntroduccionLinq.runtimeconfig.json
+C:\Users\kzela\OneDrive\Escritorio\Programacion-II\Guia de proyectos\Semana 1\Mapa de Guías LinQ\LinQ con Objetos\LinQ con Objetos\LinQ con Objetos\bin\Debug\net8.0\IntroduccionLinq.dll
+C:\Users\kzela\OneDrive\Escritorio\Programacion-II\Guia de proyectos\Semana 1\Mapa de Guías LinQ\LinQ con Objetos\LinQ con Objetos\LinQ con Objetos\bin\Debug\net8.0\IntroduccionLinq.pdb
+C:\Users\kzela\OneDrive\Escritorio\Programacion-II\Guia de proyectos\Semana 1\Mapa de Guías LinQ\LinQ con Objetos\LinQ con Objetos\LinQ con Objetos\obj\Debug\net8.0\IntroduccionLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kzela\OneDrive\Escritorio\Programacion-II\Guia de proyectos\Semana 1\Mapa de Guías LinQ\LinQ con Objetos\LinQ con Objetos\LinQ con Objetos\obj\Debug\net8.0\IntroduccionLinq.AssemblyInfoInputs.cache
+C:\Users\kzela\OneDrive\Escritorio\Programacion-II\Guia de proyectos\Semana 1\Mapa de Guías LinQ\LinQ con Objetos\LinQ con Objetos\LinQ con Objetos\obj\Debug\net8.0\IntroduccionLinq.AssemblyInfo.cs
+C:\Users\kzela\OneDrive\Escritorio\Programacion-II\Guia de proyectos\Semana 1\Mapa de Guías LinQ\LinQ con Objetos\LinQ con Objetos\LinQ con Objetos\obj\Debug\net8.0\IntroduccionLinq.csproj.CoreCompileInputs.cache
+C:\Users\kzela\OneDrive\Escritorio\Programacion-II\Guia de proyectos\Semana 1\Mapa de Guías LinQ\LinQ con Objetos\LinQ con Objetos\LinQ con Objetos\obj\Debug\net8.0\IntroduccionLinq.sourcelink.json
+C:\Users\kzela\OneDrive\Escritorio\Programacion-II\Guia de proyectos\Semana 1\Mapa de Guías LinQ\LinQ con Objetos\LinQ con Objetos\LinQ con Objetos\obj\Debug\net8.0\IntroduccionLinq.dll
+C:\Users\kzela\OneDrive\Escritorio\Programacion-II\Guia de proyectos\Semana 1\Mapa de Guías LinQ\LinQ con Objetos\LinQ con Objetos\LinQ con Objetos\obj\Debug\net8.0\refint\IntroduccionLinq.dll
+C:\Users\kzela\OneDrive\Escritorio\Programacion-II\Guia de proyectos\Semana 1\Mapa de Guías LinQ\LinQ con Objetos\LinQ con Objetos\LinQ con Objetos\obj\Debug\net8.0\IntroduccionLinq.pdb
+C:\Users\kzela\OneDrive\Escritorio\Programacion-II\Guia de proyectos\Semana 1\Mapa de Guías LinQ\LinQ con Objetos\LinQ con Objetos\LinQ con Objetos\obj\Debug\net8.0\IntroduccionLinq.genruntimeconfig.cache
+C:\Users\kzela\OneDrive\Escritorio\Programacion-II\Guia de proyectos\Semana 1\Mapa de Guías LinQ\LinQ con Objetos\LinQ con Objetos\LinQ con Objetos\obj\Debug\net8.0\ref\IntroduccionLinq.dll

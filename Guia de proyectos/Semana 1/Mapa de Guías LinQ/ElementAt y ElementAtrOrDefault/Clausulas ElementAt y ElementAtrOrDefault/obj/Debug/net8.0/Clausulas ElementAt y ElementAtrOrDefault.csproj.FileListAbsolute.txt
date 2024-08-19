@@ -1,0 +1,1 @@
+C:\Users\kzela\OneDrive\Escritorio\Programacion-II\Guia de proyectos\Semana 1\Mapa de Guías LinQ\ElementAt y ElementAtrOrDefault\Clausulas ElementAt y ElementAtrOrDefault\obj\Debug\net8.0\Clausulas ElementAt y ElementAtrOrDefault.GeneratedMSBuildEditorConfig.editorconfig
