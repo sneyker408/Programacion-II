@@ -10,3 +10,14 @@ C:\Users\sneyk\Desktop\Programacion-II\Guia de proyectos\Semana 1\DataSourceDemo
 C:\Users\sneyk\Desktop\Programacion-II\Guia de proyectos\Semana 1\DataSourceDemo\DataSourceDemo\obj\Debug\DataSourceDemo.exe
 C:\Users\sneyk\Desktop\Programacion-II\Guia de proyectos\Semana 1\DataSourceDemo\DataSourceDemo\obj\Debug\DataSourceDemo.pdb
 C:\Users\sneyk\Desktop\Programacion-II\Guia de proyectos\Semana 1\DataSourceDemo\DataSourceDemo\obj\Debug\DataSourceDemo.ejemploConexion.resources
+C:\Users\kzela\OneDrive\Escritorio\Programacion-II\Guia de proyectos\Semana 1\DataSourceDemo\DataSourceDemo\obj\Debug\DataSourceDemo.csproj.AssemblyReference.cache
+C:\Users\kzela\OneDrive\Escritorio\Programacion-II\Guia de proyectos\Semana 1\DataSourceDemo\DataSourceDemo\obj\Debug\DataSourceDemo.ejemploConexion.resources
+C:\Users\kzela\OneDrive\Escritorio\Programacion-II\Guia de proyectos\Semana 1\DataSourceDemo\DataSourceDemo\obj\Debug\DataSourceDemo.Form1.resources
+C:\Users\kzela\OneDrive\Escritorio\Programacion-II\Guia de proyectos\Semana 1\DataSourceDemo\DataSourceDemo\obj\Debug\DataSourceDemo.Properties.Resources.resources
+C:\Users\kzela\OneDrive\Escritorio\Programacion-II\Guia de proyectos\Semana 1\DataSourceDemo\DataSourceDemo\obj\Debug\DataSourceDemo.csproj.GenerateResource.cache
+C:\Users\kzela\OneDrive\Escritorio\Programacion-II\Guia de proyectos\Semana 1\DataSourceDemo\DataSourceDemo\obj\Debug\DataSourceDemo.csproj.CoreCompileInputs.cache
+C:\Users\kzela\OneDrive\Escritorio\Programacion-II\Guia de proyectos\Semana 1\DataSourceDemo\DataSourceDemo\obj\Debug\DataSourceDemo.exe
+C:\Users\kzela\OneDrive\Escritorio\Programacion-II\Guia de proyectos\Semana 1\DataSourceDemo\DataSourceDemo\obj\Debug\DataSourceDemo.pdb
+C:\Users\kzela\OneDrive\Escritorio\Programacion-II\Guia de proyectos\Semana 1\DataSourceDemo\DataSourceDemo\bin\Debug\DataSourceDemo.exe.config
+C:\Users\kzela\OneDrive\Escritorio\Programacion-II\Guia de proyectos\Semana 1\DataSourceDemo\DataSourceDemo\bin\Debug\DataSourceDemo.exe
+C:\Users\kzela\OneDrive\Escritorio\Programacion-II\Guia de proyectos\Semana 1\DataSourceDemo\DataSourceDemo\bin\Debug\DataSourceDemo.pdb
