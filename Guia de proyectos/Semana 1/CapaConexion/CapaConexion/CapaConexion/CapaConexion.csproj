@@ -52,6 +52,8 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Modelos\customers.cs" />
+    <Compile Include="Modelos\modelos.cs" />
     <Compile Include="NorthwindDataSet.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
