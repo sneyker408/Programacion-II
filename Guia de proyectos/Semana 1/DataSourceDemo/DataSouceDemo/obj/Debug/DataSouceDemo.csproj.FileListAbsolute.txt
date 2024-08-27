@@ -1,0 +1,11 @@
+C:\Users\sneyk\OneDrive\Documentos\Laboratorio\DataSouceDemo\DataSouceDemo\bin\Debug\DataSouceDemo.exe.config
+C:\Users\sneyk\OneDrive\Documentos\Laboratorio\DataSouceDemo\DataSouceDemo\bin\Debug\DataSouceDemo.exe
+C:\Users\sneyk\OneDrive\Documentos\Laboratorio\DataSouceDemo\DataSouceDemo\bin\Debug\DataSouceDemo.pdb
+C:\Users\sneyk\OneDrive\Documentos\Laboratorio\DataSouceDemo\DataSouceDemo\obj\Debug\DataSouceDemo.csproj.AssemblyReference.cache
+C:\Users\sneyk\OneDrive\Documentos\Laboratorio\DataSouceDemo\DataSouceDemo\obj\Debug\DataSouceDemo.ejemploConexion.resources
+C:\Users\sneyk\OneDrive\Documentos\Laboratorio\DataSouceDemo\DataSouceDemo\obj\Debug\DataSouceDemo.Form1.resources
+C:\Users\sneyk\OneDrive\Documentos\Laboratorio\DataSouceDemo\DataSouceDemo\obj\Debug\DataSouceDemo.Properties.Resources.resources
+C:\Users\sneyk\OneDrive\Documentos\Laboratorio\DataSouceDemo\DataSouceDemo\obj\Debug\DataSouceDemo.csproj.GenerateResource.cache
+C:\Users\sneyk\OneDrive\Documentos\Laboratorio\DataSouceDemo\DataSouceDemo\obj\Debug\DataSouceDemo.csproj.CoreCompileInputs.cache
+C:\Users\sneyk\OneDrive\Documentos\Laboratorio\DataSouceDemo\DataSouceDemo\obj\Debug\DataSouceDemo.exe
+C:\Users\sneyk\OneDrive\Documentos\Laboratorio\DataSouceDemo\DataSouceDemo\obj\Debug\DataSouceDemo.pdb

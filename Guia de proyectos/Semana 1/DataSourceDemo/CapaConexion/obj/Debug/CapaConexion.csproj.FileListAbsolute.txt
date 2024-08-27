@@ -1,0 +1,10 @@
+C:\Users\sneyk\OneDrive\Documentos\Laboratorio\DataSouceDemo\CapaConexion\bin\Debug\CapaConexion.exe.config
+C:\Users\sneyk\OneDrive\Documentos\Laboratorio\DataSouceDemo\CapaConexion\bin\Debug\CapaConexion.exe
+C:\Users\sneyk\OneDrive\Documentos\Laboratorio\DataSouceDemo\CapaConexion\bin\Debug\CapaConexion.pdb
+C:\Users\sneyk\OneDrive\Documentos\Laboratorio\DataSouceDemo\CapaConexion\obj\Debug\CapaConexion.csproj.AssemblyReference.cache
+C:\Users\sneyk\OneDrive\Documentos\Laboratorio\DataSouceDemo\CapaConexion\obj\Debug\CapaConexion.Form1.resources
+C:\Users\sneyk\OneDrive\Documentos\Laboratorio\DataSouceDemo\CapaConexion\obj\Debug\CapaConexion.Properties.Resources.resources
+C:\Users\sneyk\OneDrive\Documentos\Laboratorio\DataSouceDemo\CapaConexion\obj\Debug\CapaConexion.csproj.GenerateResource.cache
+C:\Users\sneyk\OneDrive\Documentos\Laboratorio\DataSouceDemo\CapaConexion\obj\Debug\CapaConexion.csproj.CoreCompileInputs.cache
+C:\Users\sneyk\OneDrive\Documentos\Laboratorio\DataSouceDemo\CapaConexion\obj\Debug\CapaConexion.exe
+C:\Users\sneyk\OneDrive\Documentos\Laboratorio\DataSouceDemo\CapaConexion\obj\Debug\CapaConexion.pdb
