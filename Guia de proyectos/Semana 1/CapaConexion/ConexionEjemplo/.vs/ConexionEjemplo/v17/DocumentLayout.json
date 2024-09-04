@@ -4,6 +4,17 @@
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{F0A348AE-EEB2-477A-B41E-78F8D7CE03E4}|..\\DatosLayer\\DatosLayer.csproj|c:\\users\\sneyk\\onedrive\\im\u00E1genes\\escritorio\\programacion-ii\\guia de proyectos\\semana 1\\capaconexion\\datoslayer\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+<<<<<<< HEAD
+=======
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF4D628-AA99-4CF3-ABC5-097AC0D81E8C}|ConexionEjemplo.csproj|C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Semana 1\\CapaConexion\\ConexionEjemplo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DF4D628-AA99-4CF3-ABC5-097AC0D81E8C}|ConexionEjemplo.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF4D628-AA99-4CF3-ABC5-097AC0D81E8C}|ConexionEjemplo.csproj|c:\\users\\sneyk\\onedrive\\im\u00E1genes\\escritorio\\programacion-ii\\guia de proyectos\\semana 1\\capaconexion\\conexionejemplo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF4D628-AA99-4CF3-ABC5-097AC0D81E8C}|ConexionEjemplo.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 7763377 (Guía XIV: Cerrando la conexión de manera automática.)
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0A348AE-EEB2-477A-B41E-78F8D7CE03E4}|..\\DatosLayer\\DatosLayer.csproj|c:\\users\\sneyk\\onedrive\\im\u00E1genes\\escritorio\\programacion-ii\\guia de proyectos\\semana 1\\capaconexion\\datoslayer\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -46,6 +57,10 @@
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Customers.cs",
@@ -55,8 +70,7 @@
               "RelativeToolTip": "Customers.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T05:32:53.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T05:32:53.436Z"
             },
             {
               "$type": "Document",
@@ -68,8 +82,7 @@
               "RelativeToolTip": "..\\DatosLayer\\Customers.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T05:31:56.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T05:31:56.215Z"
             },
             {
               "$type": "Document",
@@ -79,14 +92,22 @@
               "RelativeDocumentMoniker": "..\\DatosLayer\\CustomerRepository.cs",
               "ToolTip": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Semana 1\\CapaConexion\\DatosLayer\\CustomerRepository.cs",
               "RelativeToolTip": "..\\DatosLayer\\CustomerRepository.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAABkAAAAAAAAAAAAswCUAAAAqAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwC0AAAAvAAAAAAAAAA==",
+>>>>>>> 7763377 (Guía XIV: Cerrando la conexión de manera automática.)
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T05:30:29.188Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 3,
+=======
+              "DocumentIndex": 2,
+>>>>>>> 7763377 (Guía XIV: Cerrando la conexión de manera automática.)
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Semana 1\\CapaConexion\\ConexionEjemplo\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
