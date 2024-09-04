@@ -79,8 +79,22 @@ namespace ConexionEjemplo
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            var filtro = Customers.FindAll(X => X.CompanyName.StartsWith(tbFiltro.Text));
+            // Se utiliza el método FindAll para buscar en la lista de clientes (Customers) 
+            // todos aquellos cuyo nombre de la compañía (CompanyName) empieza con el texto 
+            // ingresado en el TextBox (tbFiltro.Text).
+
+            // La comparación ahora se realiza utilizando el método StringComparison.OrdinalIgnoreCase, 
+            // lo que permite que la búsqueda sea insensible a mayúsculas y minúsculas.
+            var filtro = Customers.FindAll(x => x.CompanyName.StartsWith(tbFiltro.Text, StringComparison.OrdinalIgnoreCase));
+
+            // Se asigna la lista filtrada al DataGrid para mostrar los resultados.
             dataGrid.DataSource = filtro;
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            string cadenaConexion = DatosLayer.DataBase.ConnectionString;
+            MessageBox.Show(cadenaConexion);
         }
     }
 }
