@@ -93,8 +93,11 @@ namespace ConexionEjemplo
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            DatosLayer.DataBase.ApplicationName = "Programacion 2 ejemplo";
+            DatosLayer.DataBase.ConnetionTimeout = 30;
             string cadenaConexion = DatosLayer.DataBase.ConnectionString;
-            MessageBox.Show(cadenaConexion);
+
+            var conectarDB = DatosLayer.DataBase.GetSqlConnection();
         }
     }
 }
