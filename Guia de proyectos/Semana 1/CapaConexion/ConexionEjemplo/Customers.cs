@@ -2,6 +2,7 @@
 {
     public class Customers
     {
+        public string CustomerID { get; set; }
         public string CompanyName { get; internal set; }
         public string ContactName { get; internal set; }
         public string ContactTitle { get; internal set; }

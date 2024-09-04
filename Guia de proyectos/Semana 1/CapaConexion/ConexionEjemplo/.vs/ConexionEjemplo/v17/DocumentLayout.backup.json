@@ -3,13 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Semana 1\\CapaConexion\\ConexionEjemplo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0A348AE-EEB2-477A-B41E-78F8D7CE03E4}|..\\DatosLayer\\DatosLayer.csproj|c:\\users\\sneyk\\onedrive\\im\u00E1genes\\escritorio\\programacion-ii\\guia de proyectos\\semana 1\\capaconexion\\datoslayer\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DF4D628-AA99-4CF3-ABC5-097AC0D81E8C}|ConexionEjemplo.csproj|c:\\users\\sneyk\\onedrive\\im\u00E1genes\\escritorio\\programacion-ii\\guia de proyectos\\semana 1\\capaconexion\\conexionejemplo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF4D628-AA99-4CF3-ABC5-097AC0D81E8C}|ConexionEjemplo.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6DF4D628-AA99-4CF3-ABC5-097AC0D81E8C}|ConexionEjemplo.csproj|C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Semana 1\\CapaConexion\\ConexionEjemplo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6DF4D628-AA99-4CF3-ABC5-097AC0D81E8C}|ConexionEjemplo.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -17,10 +10,17 @@
       "AbsoluteMoniker": "D:0:0:{F0A348AE-EEB2-477A-B41E-78F8D7CE03E4}|..\\DatosLayer\\DatosLayer.csproj|C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Semana 1\\CapaConexion\\datoslayer\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0A348AE-EEB2-477A-B41E-78F8D7CE03E4}|..\\DatosLayer\\DatosLayer.csproj|C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Semana 1\\CapaConexion\\datoslayer\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DF4D628-AA99-4CF3-ABC5-097AC0D81E8C}|ConexionEjemplo.csproj|c:\\users\\sneyk\\onedrive\\im\u00E1genes\\escritorio\\programacion-ii\\guia de proyectos\\semana 1\\capaconexion\\conexionejemplo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF4D628-AA99-4CF3-ABC5-097AC0D81E8C}|ConexionEjemplo.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DF4D628-AA99-4CF3-ABC5-097AC0D81E8C}|ConexionEjemplo.csproj|C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Semana 1\\CapaConexion\\ConexionEjemplo\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0A348AE-EEB2-477A-B41E-78F8D7CE03E4}|..\\DatosLayer\\DatosLayer.csproj|c:\\users\\sneyk\\onedrive\\im\u00E1genes\\escritorio\\programacion-ii\\guia de proyectos\\semana 1\\capaconexion\\datoslayer\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A348AE-EEB2-477A-B41E-78F8D7CE03E4}|..\\DatosLayer\\DatosLayer.csproj|c:\\users\\sneyk\\onedrive\\im\u00E1genes\\escritorio\\programacion-ii\\guia de proyectos\\semana 1\\capaconexion\\datoslayer\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF4D628-AA99-4CF3-ABC5-097AC0D81E8C}|ConexionEjemplo.csproj|c:\\users\\sneyk\\onedrive\\im\u00E1genes\\escritorio\\programacion-ii\\guia de proyectos\\semana 1\\capaconexion\\conexionejemplo\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DF4D628-AA99-4CF3-ABC5-097AC0D81E8C}|ConexionEjemplo.csproj|solutionrelative:customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -35,7 +35,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,25 +47,64 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Semana 1\\CapaConexion\\ConexionEjemplo\\Customers.cs",
+              "RelativeDocumentMoniker": "Customers.cs",
+              "ToolTip": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Semana 1\\CapaConexion\\ConexionEjemplo\\Customers.cs",
+              "RelativeToolTip": "Customers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T08:08:16.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Customers.cs",
               "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Semana 1\\CapaConexion\\DatosLayer\\Customers.cs",
               "RelativeDocumentMoniker": "..\\DatosLayer\\Customers.cs",
               "ToolTip": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Semana 1\\CapaConexion\\DatosLayer\\Customers.cs",
               "RelativeToolTip": "..\\DatosLayer\\Customers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T05:31:56.215Z"
+              "WhenOpened": "2024-09-04T07:46:10.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Semana 1\\CapaConexion\\ConexionEjemplo\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Semana 1\\CapaConexion\\ConexionEjemplo\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAzwFMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T00:12:57.829Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Semana 1\\CapaConexion\\ConexionEjemplo\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Semana 1\\CapaConexion\\ConexionEjemplo\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T00:05:26.764Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CustomerRepository.cs",
               "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Semana 1\\CapaConexion\\DatosLayer\\CustomerRepository.cs",
               "RelativeDocumentMoniker": "..\\DatosLayer\\CustomerRepository.cs",
               "ToolTip": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Semana 1\\CapaConexion\\DatosLayer\\CustomerRepository.cs",
               "RelativeToolTip": "..\\DatosLayer\\CustomerRepository.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAgwEIAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAswIcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T05:30:29.188Z",
               "EditorCaption": ""
@@ -73,50 +112,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Semana 1\\CapaConexion\\ConexionEjemplo\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Semana 1\\CapaConexion\\ConexionEjemplo\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T00:12:57.829Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Semana 1\\CapaConexion\\ConexionEjemplo\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Semana 1\\CapaConexion\\ConexionEjemplo\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T00:05:26.764Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Customers.cs",
-              "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Semana 1\\CapaConexion\\ConexionEjemplo\\Customers.cs",
-              "RelativeDocumentMoniker": "Customers.cs",
-              "ToolTip": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Semana 1\\CapaConexion\\ConexionEjemplo\\Customers.cs",
-              "RelativeToolTip": "Customers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T05:32:53.436Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "DataBase.cs",
               "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Semana 1\\CapaConexion\\DatosLayer\\DataBase.cs",
               "RelativeDocumentMoniker": "..\\DatosLayer\\DataBase.cs",
               "ToolTip": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Semana 1\\CapaConexion\\DatosLayer\\DataBase.cs",
               "RelativeToolTip": "..\\DatosLayer\\DataBase.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T01:10:51.55Z"
+              "WhenOpened": "2024-09-04T01:10:51.55Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -128,7 +132,8 @@
               "RelativeToolTip": "App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-09-04T01:07:34.747Z"
+              "WhenOpened": "2024-09-04T01:07:34.747Z",
+              "EditorCaption": ""
             }
           ]
         }
