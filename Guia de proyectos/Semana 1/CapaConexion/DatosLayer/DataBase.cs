@@ -6,41 +6,43 @@ using System.Threading.Tasks;
 using System.Configuration;
 using System.Xml.Linq;
 using System.Data.SqlClient;
+using System.Runtime.CompilerServices;
 
 namespace DatosLayer
 {
     public class DataBase
     {
 
-        public static int ConnetionTimeout { get; set; }
-        public static string ApplicationName { get; set; }
-
-
-        public static String ConnectionString
-        {
+        public static string ConnectionString {
             get
             {
-                String CadenaConexion = ConfigurationManager
-                   .ConnectionStrings["NWConnection"]
-                   .ConnectionString;
+                 string CadenaConexion = ConfigurationManager
+                    .ConnectionStrings["NWConnection"]
+                    .ConnectionString;
 
-                SqlConnectionStringBuilder conexionBuilder =
+                SqlConnectionStringBuilder conexionBuilder = 
                     new SqlConnectionStringBuilder(CadenaConexion);
 
-                conexionBuilder.ApplicationName =
-                ApplicationName ?? conexionBuilder.ApplicationName;
-                conexionBuilder.ConnectTimeout = (ConnetionTimeout > 0)
-                    ? ConnetionTimeout : conexionBuilder.ConnectTimeout;
+                conexionBuilder.ApplicationName = 
+                    ApplicationName ?? conexionBuilder.ApplicationName;
+         
+                conexionBuilder.ConnectTimeout = ( ConnectionTimeout > 0 ) 
+                    ? ConnectionTimeout : conexionBuilder.ConnectTimeout;
                 return conexionBuilder.ToString();
             }
 
+
         }
+        public static int ConnectionTimeout { get; set; }
+        public static string ApplicationName { get; set; }
+
         public static SqlConnection GetSqlConnection()
         {
-
+            
             SqlConnection conexion = new SqlConnection(ConnectionString);
             conexion.Open();
             return conexion;
-        }
+            
+        } 
     }
 }

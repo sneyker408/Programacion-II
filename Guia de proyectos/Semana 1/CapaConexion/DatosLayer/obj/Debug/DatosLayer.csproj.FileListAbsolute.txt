@@ -1,6 +1,6 @@
-C:\Users\sneyk\OneDrive\Imágenes\Escritorio\Programacion-II\Guia de proyectos\Semana 1\CapaConexion\DatosLayer\bin\Debug\DatosLayer.dll
-C:\Users\sneyk\OneDrive\Imágenes\Escritorio\Programacion-II\Guia de proyectos\Semana 1\CapaConexion\DatosLayer\bin\Debug\DatosLayer.pdb
-C:\Users\sneyk\OneDrive\Imágenes\Escritorio\Programacion-II\Guia de proyectos\Semana 1\CapaConexion\DatosLayer\obj\Debug\DatosLayer.csproj.AssemblyReference.cache
-C:\Users\sneyk\OneDrive\Imágenes\Escritorio\Programacion-II\Guia de proyectos\Semana 1\CapaConexion\DatosLayer\obj\Debug\DatosLayer.csproj.CoreCompileInputs.cache
-C:\Users\sneyk\OneDrive\Imágenes\Escritorio\Programacion-II\Guia de proyectos\Semana 1\CapaConexion\DatosLayer\obj\Debug\DatosLayer.dll
-C:\Users\sneyk\OneDrive\Imágenes\Escritorio\Programacion-II\Guia de proyectos\Semana 1\CapaConexion\DatosLayer\obj\Debug\DatosLayer.pdb
+C:\Users\everc\OneDrive\Documentos\progra2\conexion_vs_sql_server\ModeloDeCapasC#\ConexionEjemplo\DatosLayer\bin\Debug\DatosLayer.dll
+C:\Users\everc\OneDrive\Documentos\progra2\conexion_vs_sql_server\ModeloDeCapasC#\ConexionEjemplo\DatosLayer\bin\Debug\DatosLayer.pdb
+C:\Users\everc\OneDrive\Documentos\progra2\conexion_vs_sql_server\ModeloDeCapasC#\ConexionEjemplo\DatosLayer\obj\Debug\DatosLayer.csproj.AssemblyReference.cache
+C:\Users\everc\OneDrive\Documentos\progra2\conexion_vs_sql_server\ModeloDeCapasC#\ConexionEjemplo\DatosLayer\obj\Debug\DatosLayer.csproj.CoreCompileInputs.cache
+C:\Users\everc\OneDrive\Documentos\progra2\conexion_vs_sql_server\ModeloDeCapasC#\ConexionEjemplo\DatosLayer\obj\Debug\DatosLayer.dll
+C:\Users\everc\OneDrive\Documentos\progra2\conexion_vs_sql_server\ModeloDeCapasC#\ConexionEjemplo\DatosLayer\obj\Debug\DatosLayer.pdb

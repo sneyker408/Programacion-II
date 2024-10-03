@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6DF4D628-AA99-4CF3-ABC5-097AC0D81E8C}</ProjectGuid>
+    <ProjectGuid>{4415BBC4-4CDA-46E7-B614-9D094FAB67BE}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>ConexionEjemplo</RootNamespace>
     <AssemblyName>ConexionEjemplo</AssemblyName>
@@ -46,7 +46,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Customers.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -82,7 +81,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DatosLayer\DatosLayer.csproj">
-      <Project>{f0a348ae-eeb2-477a-b41e-78f8d7ce03e4}</Project>
+      <Project>{bde84799-3f6e-41b4-81f0-2144da00a776}</Project>
       <Name>DatosLayer</Name>
     </ProjectReference>
   </ItemGroup>
