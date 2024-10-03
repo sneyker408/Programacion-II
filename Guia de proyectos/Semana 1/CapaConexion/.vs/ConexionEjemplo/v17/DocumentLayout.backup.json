@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{4415BBC4-4CDA-46E7-B614-9D094FAB67BE}|ConexionEjemplo\\ConexionEjemplo.csproj|solutionrelative:conexionejemplo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4415BBC4-4CDA-46E7-B614-9D094FAB67BE}|ConexionEjemplo\\ConexionEjemplo.csproj|c:\\users\\sneyk\\onedrive\\im\u00E1genes\\escritorio\\programacion-ii\\guia de proyectos\\semana 1\\capaconexion\\conexionejemplo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4415BBC4-4CDA-46E7-B614-9D094FAB67BE}|ConexionEjemplo\\ConexionEjemplo.csproj|C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Semana 1\\CapaConexion\\conexionejemplo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4415BBC4-4CDA-46E7-B614-9D094FAB67BE}|ConexionEjemplo\\ConexionEjemplo.csproj|solutionrelative:conexionejemplo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4415BBC4-4CDA-46E7-B614-9D094FAB67BE}|ConexionEjemplo\\ConexionEjemplo.csproj|c:\\users\\sneyk\\onedrive\\im\u00E1genes\\escritorio\\programacion-ii\\guia de proyectos\\semana 1\\capaconexion\\conexionejemplo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{4415BBC4-4CDA-46E7-B614-9D094FAB67BE}|ConexionEjemplo\\ConexionEjemplo.csproj|C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Semana 1\\CapaConexion\\conexionejemplo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{4415BBC4-4CDA-46E7-B614-9D094FAB67BE}|ConexionEjemplo\\ConexionEjemplo.csproj|solutionrelative:conexionejemplo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -55,8 +55,7 @@
               "RelativeToolTip": "ConexionEjemplo\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-10-03T23:23:12.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T23:23:12.005Z"
             },
             {
               "$type": "Document",

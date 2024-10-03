@@ -159,6 +159,7 @@ namespace DatosLayer
                     comando.Parameters.AddWithValue("@CustomerID", id);
                     int elimindos = comando.ExecuteNonQuery();
                     return elimindos;
+
                 }
             }
         }
