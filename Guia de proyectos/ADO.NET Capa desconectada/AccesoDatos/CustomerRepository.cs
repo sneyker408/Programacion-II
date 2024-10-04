@@ -5,7 +5,7 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using AccesoDatos;
 namespace AccesoDatos
 {
     public class CustomerRepository
@@ -35,5 +35,58 @@ namespace AccesoDatos
 
         }
 
+        public Customers ObetenerPorId(string id)
+        {
+            using (var conexion = DataBase.GetSqlConnection())
+            {
+                var dataTable = new DataTable();
+
+                String selectForId = "";
+                selectForId = selectForId + "SELECT [CustomerID] " + "\n";
+                selectForId = selectForId + "      ,[CompanyName] " + "\n";
+                selectForId = selectForId + "      ,[ContactName] " + "\n";
+                selectForId = selectForId + "      ,[ContactTitle] " + "\n";
+                selectForId = selectForId + "      ,[Address] " + "\n";
+                selectForId = selectForId + "      ,[City] " + "\n";
+                selectForId = selectForId + "      ,[Region] " + "\n";
+                selectForId = selectForId + "      ,[PostalCode] " + "\n";
+                selectForId = selectForId + "      ,[Country] " + "\n";
+                selectForId = selectForId + "      ,[Phone] " + "\n";
+                selectForId = selectForId + "      ,[Fax] " + "\n";
+                selectForId = selectForId + "  FROM [dbo].[Customers] " + "\n";
+                selectForId = selectForId + "  Where CustomerID = @CustomerID";
+                using (var comando = new SqlCommand(selectForId, conexion))
+                {
+                    comando.Parameters.AddWithValue("@CustomerID", id);
+                    SqlDataAdapter adaptador = new SqlDataAdapter(comando);
+                    adaptador.Fill(dataTable);
+                    Customers cliente = ExtraerInfoCliente(dataTable);
+                    return cliente;
+                }
+            }
+        }
+
+        private Customers ExtraerInfoCliente(DataTable dataTeble)
+        {
+            Customers customer = new Customers();
+            foreach (DataRow fila in dataTeble.Rows)
+            {
+                customer.CustomerID = fila.Field<string>("CustomerID");
+                customer.CompanyName = fila.Field<string>("CompanyName");
+                customer.ContactName = fila.Field<string>("ContactName");
+                customer.ContactTitle = fila.Field<string>("ContactTitle");
+                customer.Address = fila.Field<string>("Address");
+                customer.City = fila.Field<string>("City");
+                customer.Region = fila.Field<string>("Region");
+                customer.PostalCode = fila.Field<string>("PostalCode");
+                customer.Country = fila.Field<string>("Country");
+                customer.Phone = fila.Field<string>("Phone");
+                customer.Fax = fila.Field<string>("Fax");
+            }
+            return customer;
+
+        }
     }
+
+   
 }
