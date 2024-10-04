@@ -3,11 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\ADO.NET Capa desconectada\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA49CE7C-FC11-4D7A-B80C-F76706B069D4}|CapaDesconectada\\CapaDesconectada.csproj|C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\ADO.NET Capa desconectada\\capadesconectada\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EA49CE7C-FC11-4D7A-B80C-F76706B069D4}|CapaDesconectada\\CapaDesconectada.csproj|solutionrelative:capadesconectada\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA49CE7C-FC11-4D7A-B80C-F76706B069D4}|CapaDesconectada\\CapaDesconectada.csproj|c:\\users\\sneyk\\onedrive\\im\u00E1genes\\escritorio\\programacion-ii\\guia de proyectos\\ado.net capa desconectada\\capadesconectada\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{EA49CE7C-FC11-4D7A-B80C-F76706B069D4}|CapaDesconectada\\CapaDesconectada.csproj|C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\ADO.NET Capa desconectada\\capadesconectada\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{EA49CE7C-FC11-4D7A-B80C-F76706B069D4}|CapaDesconectada\\CapaDesconectada.csproj|solutionrelative:capadesconectada\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
@@ -15,7 +11,11 @@
       "RelativeMoniker": "D:0:0:{4BC42F9F-60F3-4791-8BC5-0155F1E22F57}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA49CE7C-FC11-4D7A-B80C-F76706B069D4}|CapaDesconectada\\CapaDesconectada.csproj|c:\\users\\sneyk\\onedrive\\im\u00E1genes\\escritorio\\programacion-ii\\guia de proyectos\\ado.net capa desconectada\\capadesconectada\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EA49CE7C-FC11-4D7A-B80C-F76706B069D4}|CapaDesconectada\\CapaDesconectada.csproj|c:\\users\\sneyk\\onedrive\\im\u00E1genes\\escritorio\\programacion-ii\\guia de proyectos\\ado.net capa desconectada\\capadesconectada\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA49CE7C-FC11-4D7A-B80C-F76706B069D4}|CapaDesconectada\\CapaDesconectada.csproj|solutionrelative:capadesconectada\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA49CE7C-FC11-4D7A-B80C-F76706B069D4}|CapaDesconectada\\CapaDesconectada.csproj|C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\ADO.NET Capa desconectada\\capadesconectada\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA49CE7C-FC11-4D7A-B80C-F76706B069D4}|CapaDesconectada\\CapaDesconectada.csproj|solutionrelative:capadesconectada\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -84,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "CustomerRepository.cs",
               "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\ADO.NET Capa desconectada\\AccesoDatos\\CustomerRepository.cs",
               "RelativeDocumentMoniker": "AccesoDatos\\CustomerRepository.cs",
@@ -97,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\ADO.NET Capa desconectada\\CapaDesconectada\\App.config",
               "RelativeDocumentMoniker": "CapaDesconectada\\App.config",
@@ -110,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\ADO.NET Capa desconectada\\CapaDesconectada\\Form1.cs",
               "RelativeDocumentMoniker": "CapaDesconectada\\Form1.cs",
