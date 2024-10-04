@@ -66,7 +66,7 @@ namespace AccesoDatos
             }
         }
 
-        private Customers ExtraerInfoCliente(DataTable dataTeble)
+        public Customers ExtraerInfoCliente(DataTable dataTeble)
         {
             Customers customer = new Customers();
             foreach (DataRow fila in dataTeble.Rows)
@@ -84,7 +84,6 @@ namespace AccesoDatos
                 customer.Fax = fila.Field<string>("Fax");
             }
             return customer;
-
         }
     }
 
