@@ -269,7 +269,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1089, 474);
+            this.ClientSize = new System.Drawing.Size(1092, 483);
             this.Controls.Add(this.btonInsertarCliente);
             this.Controls.Add(this.tboxAddres);
             this.Controls.Add(this.label7);
