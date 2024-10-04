@@ -8,13 +8,32 @@ C:\Users\everc\OneDrive\Documentos\progra2\CapaDesconectada\CapaDesconectada\obj
 C:\Users\everc\OneDrive\Documentos\progra2\CapaDesconectada\CapaDesconectada\obj\Debug\CapaDesconectada.csproj.CoreCompileInputs.cache
 C:\Users\everc\OneDrive\Documentos\progra2\CapaDesconectada\CapaDesconectada\obj\Debug\CapaDesconectada.exe
 C:\Users\everc\OneDrive\Documentos\progra2\CapaDesconectada\CapaDesconectada\obj\Debug\CapaDesconectada.pdb
+C:\Users\everc\OneDrive\Documentos\progra2\CapaDesconectada\CapaDesconectada\bin\Debug\AccesoDatos.dll
+C:\Users\everc\OneDrive\Documentos\progra2\CapaDesconectada\CapaDesconectada\bin\Debug\AccesoDatos.pdb
+C:\Users\everc\OneDrive\Documentos\progra2\CapaDesconectada\CapaDesconectada\obj\Debug\CapaDesc.ABCBD388.Up2Date
 C:\Users\sneyk\OneDrive\Imágenes\Escritorio\sql_vs_DataSet\CapaDesconectada\bin\Debug\CapaDesconectada.exe.config
 C:\Users\sneyk\OneDrive\Imágenes\Escritorio\sql_vs_DataSet\CapaDesconectada\bin\Debug\CapaDesconectada.exe
 C:\Users\sneyk\OneDrive\Imágenes\Escritorio\sql_vs_DataSet\CapaDesconectada\bin\Debug\CapaDesconectada.pdb
+C:\Users\sneyk\OneDrive\Imágenes\Escritorio\sql_vs_DataSet\CapaDesconectada\bin\Debug\AccesoDatos.dll
+C:\Users\sneyk\OneDrive\Imágenes\Escritorio\sql_vs_DataSet\CapaDesconectada\bin\Debug\AccesoDatos.pdb
 C:\Users\sneyk\OneDrive\Imágenes\Escritorio\sql_vs_DataSet\CapaDesconectada\obj\Debug\CapaDesconectada.csproj.AssemblyReference.cache
 C:\Users\sneyk\OneDrive\Imágenes\Escritorio\sql_vs_DataSet\CapaDesconectada\obj\Debug\CapaDesconectada.Form1.resources
 C:\Users\sneyk\OneDrive\Imágenes\Escritorio\sql_vs_DataSet\CapaDesconectada\obj\Debug\CapaDesconectada.Properties.Resources.resources
 C:\Users\sneyk\OneDrive\Imágenes\Escritorio\sql_vs_DataSet\CapaDesconectada\obj\Debug\CapaDesconectada.csproj.GenerateResource.cache
 C:\Users\sneyk\OneDrive\Imágenes\Escritorio\sql_vs_DataSet\CapaDesconectada\obj\Debug\CapaDesconectada.csproj.CoreCompileInputs.cache
+C:\Users\sneyk\OneDrive\Imágenes\Escritorio\sql_vs_DataSet\CapaDesconectada\obj\Debug\CapaDesc.ABCBD388.Up2Date
 C:\Users\sneyk\OneDrive\Imágenes\Escritorio\sql_vs_DataSet\CapaDesconectada\obj\Debug\CapaDesconectada.exe
 C:\Users\sneyk\OneDrive\Imágenes\Escritorio\sql_vs_DataSet\CapaDesconectada\obj\Debug\CapaDesconectada.pdb
+C:\Users\sneyk\OneDrive\Imágenes\Escritorio\Programacion-II\Guia de proyectos\ADO.NET Capa desconectada\CapaDesconectada\bin\Debug\CapaDesconectada.exe.config
+C:\Users\sneyk\OneDrive\Imágenes\Escritorio\Programacion-II\Guia de proyectos\ADO.NET Capa desconectada\CapaDesconectada\bin\Debug\CapaDesconectada.exe
+C:\Users\sneyk\OneDrive\Imágenes\Escritorio\Programacion-II\Guia de proyectos\ADO.NET Capa desconectada\CapaDesconectada\bin\Debug\CapaDesconectada.pdb
+C:\Users\sneyk\OneDrive\Imágenes\Escritorio\Programacion-II\Guia de proyectos\ADO.NET Capa desconectada\CapaDesconectada\bin\Debug\AccesoDatos.dll
+C:\Users\sneyk\OneDrive\Imágenes\Escritorio\Programacion-II\Guia de proyectos\ADO.NET Capa desconectada\CapaDesconectada\bin\Debug\AccesoDatos.pdb
+C:\Users\sneyk\OneDrive\Imágenes\Escritorio\Programacion-II\Guia de proyectos\ADO.NET Capa desconectada\CapaDesconectada\obj\Debug\CapaDesconectada.csproj.AssemblyReference.cache
+C:\Users\sneyk\OneDrive\Imágenes\Escritorio\Programacion-II\Guia de proyectos\ADO.NET Capa desconectada\CapaDesconectada\obj\Debug\CapaDesconectada.Form1.resources
+C:\Users\sneyk\OneDrive\Imágenes\Escritorio\Programacion-II\Guia de proyectos\ADO.NET Capa desconectada\CapaDesconectada\obj\Debug\CapaDesconectada.Properties.Resources.resources
+C:\Users\sneyk\OneDrive\Imágenes\Escritorio\Programacion-II\Guia de proyectos\ADO.NET Capa desconectada\CapaDesconectada\obj\Debug\CapaDesconectada.csproj.GenerateResource.cache
+C:\Users\sneyk\OneDrive\Imágenes\Escritorio\Programacion-II\Guia de proyectos\ADO.NET Capa desconectada\CapaDesconectada\obj\Debug\CapaDesconectada.csproj.CoreCompileInputs.cache
+C:\Users\sneyk\OneDrive\Imágenes\Escritorio\Programacion-II\Guia de proyectos\ADO.NET Capa desconectada\CapaDesconectada\obj\Debug\CapaDesc.ABCBD388.Up2Date
+C:\Users\sneyk\OneDrive\Imágenes\Escritorio\Programacion-II\Guia de proyectos\ADO.NET Capa desconectada\CapaDesconectada\obj\Debug\CapaDesconectada.exe
+C:\Users\sneyk\OneDrive\Imágenes\Escritorio\Programacion-II\Guia de proyectos\ADO.NET Capa desconectada\CapaDesconectada\obj\Debug\CapaDesconectada.pdb

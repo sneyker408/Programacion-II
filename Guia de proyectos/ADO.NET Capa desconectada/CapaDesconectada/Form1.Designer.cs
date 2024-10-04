@@ -44,7 +44,7 @@
             // 
             this.groupBox1.Controls.Add(this.btnObtenerNotipado);
             this.groupBox1.Controls.Add(this.gridNotipado);
-            this.groupBox1.Location = new System.Drawing.Point(46, 12);
+            this.groupBox1.Location = new System.Drawing.Point(12, 12);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(337, 355);
             this.groupBox1.TabIndex = 0;
@@ -73,7 +73,7 @@
             // 
             this.groupBox2.Controls.Add(this.btnObtenerTipado);
             this.groupBox2.Controls.Add(this.gridTipado);
-            this.groupBox2.Location = new System.Drawing.Point(484, 12);
+            this.groupBox2.Location = new System.Drawing.Point(428, 12);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(337, 355);
             this.groupBox2.TabIndex = 1;
@@ -82,11 +82,11 @@
             // 
             // btnObtenerTipado
             // 
-            this.btnObtenerTipado.Location = new System.Drawing.Point(0, 289);
+            this.btnObtenerTipado.Location = new System.Drawing.Point(0, 300);
             this.btnObtenerTipado.Name = "btnObtenerTipado";
             this.btnObtenerTipado.Size = new System.Drawing.Size(337, 49);
             this.btnObtenerTipado.TabIndex = 2;
-            this.btnObtenerTipado.Text = "ONtener dato tipado";
+            this.btnObtenerTipado.Text = "Obtener dato tipado";
             this.btnObtenerTipado.UseVisualStyleBackColor = true;
             // 
             // gridTipado
@@ -101,7 +101,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(858, 396);
+            this.ClientSize = new System.Drawing.Size(779, 392);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.Name = "Form1";
