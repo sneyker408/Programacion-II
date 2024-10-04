@@ -176,7 +176,7 @@
             // 
             // tboxCustomerID
             // 
-            this.tboxCustomerID.Location = new System.Drawing.Point(874, 134);
+            this.tboxCustomerID.Location = new System.Drawing.Point(873, 122);
             this.tboxCustomerID.Name = "tboxCustomerID";
             this.tboxCustomerID.Size = new System.Drawing.Size(205, 20);
             this.tboxCustomerID.TabIndex = 10;
@@ -184,7 +184,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(789, 137);
+            this.label3.Location = new System.Drawing.Point(788, 125);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(68, 13);
             this.label3.TabIndex = 9;
@@ -192,7 +192,7 @@
             // 
             // tboxCompaniName
             // 
-            this.tboxCompaniName.Location = new System.Drawing.Point(874, 189);
+            this.tboxCompaniName.Location = new System.Drawing.Point(873, 177);
             this.tboxCompaniName.Name = "tboxCompaniName";
             this.tboxCompaniName.Size = new System.Drawing.Size(205, 20);
             this.tboxCompaniName.TabIndex = 12;
@@ -200,7 +200,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(789, 192);
+            this.label4.Location = new System.Drawing.Point(788, 180);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(79, 13);
             this.label4.TabIndex = 11;
@@ -208,7 +208,7 @@
             // 
             // tboxContactName
             // 
-            this.tboxContactName.Location = new System.Drawing.Point(874, 238);
+            this.tboxContactName.Location = new System.Drawing.Point(873, 226);
             this.tboxContactName.Name = "tboxContactName";
             this.tboxContactName.Size = new System.Drawing.Size(205, 20);
             this.tboxContactName.TabIndex = 14;
@@ -216,7 +216,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(789, 245);
+            this.label5.Location = new System.Drawing.Point(788, 233);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(75, 13);
             this.label5.TabIndex = 13;
@@ -224,7 +224,7 @@
             // 
             // tboxContactTitle
             // 
-            this.tboxContactTitle.Location = new System.Drawing.Point(874, 282);
+            this.tboxContactTitle.Location = new System.Drawing.Point(873, 270);
             this.tboxContactTitle.Name = "tboxContactTitle";
             this.tboxContactTitle.Size = new System.Drawing.Size(205, 20);
             this.tboxContactTitle.TabIndex = 16;
@@ -232,7 +232,7 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(789, 292);
+            this.label6.Location = new System.Drawing.Point(788, 280);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(67, 13);
             this.label6.TabIndex = 15;
@@ -240,7 +240,7 @@
             // 
             // tboxAddres
             // 
-            this.tboxAddres.Location = new System.Drawing.Point(874, 334);
+            this.tboxAddres.Location = new System.Drawing.Point(873, 322);
             this.tboxAddres.Name = "tboxAddres";
             this.tboxAddres.Size = new System.Drawing.Size(205, 20);
             this.tboxAddres.TabIndex = 18;
@@ -248,7 +248,7 @@
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(789, 341);
+            this.label7.Location = new System.Drawing.Point(788, 329);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(40, 13);
             this.label7.TabIndex = 17;
@@ -257,7 +257,7 @@
             // 
             // btonInsertarCliente
             // 
-            this.btonInsertarCliente.Location = new System.Drawing.Point(815, 391);
+            this.btonInsertarCliente.Location = new System.Drawing.Point(814, 379);
             this.btonInsertarCliente.Name = "btonInsertarCliente";
             this.btonInsertarCliente.Size = new System.Drawing.Size(264, 35);
             this.btonInsertarCliente.TabIndex = 9;
@@ -269,7 +269,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1086, 487);
+            this.ClientSize = new System.Drawing.Size(1087, 478);
             this.Controls.Add(this.btonInsertarCliente);
             this.Controls.Add(this.tboxAddres);
             this.Controls.Add(this.label7);
