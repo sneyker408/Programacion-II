@@ -30,6 +30,7 @@ namespace AccesoDatos
             SqlDataAdapter adapter = new SqlDataAdapter(select, conexion);
             adapter.Fill(dataTable);
 
+
             return dataTable;
 
 
