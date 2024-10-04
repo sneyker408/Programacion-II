@@ -85,6 +85,36 @@ namespace AccesoDatos
             }
             return customer;
         }
+
+        public int InsertarCliente(Customers cliente) {
+            using (var conexion = DataBase.GetSqlConnection()) {
+
+                String InsertarporId = "";
+                InsertarporId = InsertarporId + "INSERT INTO [dbo].[Customers] " + "\n";
+                InsertarporId = InsertarporId + "           ([CustomerID] " + "\n";
+                InsertarporId = InsertarporId + "           ,[CompanyName] " + "\n";
+                InsertarporId = InsertarporId + "           ,[ContactName] " + "\n";
+                InsertarporId = InsertarporId + "           ,[ContactTitle] " + "\n";
+                InsertarporId = InsertarporId + "           ,[Address]) " + "\n";
+                InsertarporId = InsertarporId + "     VALUES " + "\n";
+                InsertarporId = InsertarporId + "           (@CustomerID " + "\n";
+                InsertarporId = InsertarporId + "           ,@CompanyName " + "\n";
+                InsertarporId = InsertarporId + "           ,@ContactName " + "\n";
+                InsertarporId = InsertarporId + "           ,@ContactTitle " + "\n";
+                InsertarporId = InsertarporId + "           ,@Address)";
+
+                using (var commando = new SqlCommand(InsertarporId, conexion)) {
+                    commando.Parameters.AddWithValue("CustomerID", cliente.CustomerID);
+                    commando.Parameters.AddWithValue("CompanyName", cliente.CompanyName);
+                    commando.Parameters.AddWithValue("ContactName", cliente.ContactName);
+                    commando.Parameters.AddWithValue("ContactTitle", cliente.ContactTitle);
+                    commando.Parameters.AddWithValue("Address", cliente.Address);
+                    SqlDataAdapter adaptador = new SqlDataAdapter(commando);
+                    adaptador.InsertCommand = commando;
+                  return  adaptador.InsertCommand.ExecuteNonQuery();
+                }
+            }
+        }
     }
 
    
