@@ -1,6 +1,0 @@
-C:\Users\everc\OneDrive\Documentos\progra2\conexion_vs_sql_server\ModeloDeCapasC#\ConexionEjemplo\DatosLayer\bin\Debug\DatosLayer.dll
-C:\Users\everc\OneDrive\Documentos\progra2\conexion_vs_sql_server\ModeloDeCapasC#\ConexionEjemplo\DatosLayer\bin\Debug\DatosLayer.pdb
-C:\Users\everc\OneDrive\Documentos\progra2\conexion_vs_sql_server\ModeloDeCapasC#\ConexionEjemplo\DatosLayer\obj\Debug\DatosLayer.csproj.AssemblyReference.cache
-C:\Users\everc\OneDrive\Documentos\progra2\conexion_vs_sql_server\ModeloDeCapasC#\ConexionEjemplo\DatosLayer\obj\Debug\DatosLayer.csproj.CoreCompileInputs.cache
-C:\Users\everc\OneDrive\Documentos\progra2\conexion_vs_sql_server\ModeloDeCapasC#\ConexionEjemplo\DatosLayer\obj\Debug\DatosLayer.dll
-C:\Users\everc\OneDrive\Documentos\progra2\conexion_vs_sql_server\ModeloDeCapasC#\ConexionEjemplo\DatosLayer\obj\Debug\DatosLayer.pdb
