@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 
 namespace AccesoDatos
 {
+    //DataBase: 
     public class DataBase
     {
         public static string ConnectionString
