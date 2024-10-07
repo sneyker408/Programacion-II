@@ -1,41 +1,31 @@
-# Archivos generados por Unity
+# Archivos generados por Unity (mantener)
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
-[Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
 [Mm]emoryCaptures/
-*.csproj
-*.unityproj
-*.sln
-*.suo
 *.user
 *.userprefs
 *.pidb
 *.booproj
 *.svd
 
-# Archivos de paquetes y configuraciones
-*.pdb
-*.opendb
+# Archivos de paquetes y configuraciones (mantener)
+.pdb
+.opendb
 *.VC.db
 *.pidb.meta
 
-# Archivos grandes o innecesarios
+# Archivos grandes o innecesarios (mantener)
 *.apk
 *.aab
 *.unitypackage
 
-# Archivos de configuración de sistema
-.vscode/
-.idea/
+# Archivos de configuración de sistema (mantener)
 .DS_Store
 *.swp
 *.lock
 *.log
 *.diff
 *.patch
-
-# Excluir carpetas de compilación locales
-/Assets/**/StreamingAssets/
