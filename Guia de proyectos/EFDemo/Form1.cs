@@ -37,5 +37,45 @@ namespace EFDemo
             dgvCustomers.DataSource = lista1;
 
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private Customers crearCliente()
+        {
+            var cliente = new Customers { 
+            CustomerID = txbCustomerID.Text,
+            CompanyName = txbCompanyName.Text,
+            ContactName = txbContactName.Text,
+            ContactTitle = txbContactTitle.Text,
+            Address = txbAddress.Text,
+            };
+            return cliente;
+        }
+
+        private void btnInsertar_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                var cliente = crearCliente();
+                var resultado = cr.InsertarCliente(cliente);
+
+                if (resultado > 0)
+                {
+                    MessageBox.Show($"Se insertó correctamente {resultado} fila(s).");
+                }
+                else
+                {
+                    MessageBox.Show("Error: No se pudo insertar el cliente.");
+                }
+            }
+            catch (Exception ex)
+            {
+                // Capturamos cualquier error inesperado y mostramos el mensaje
+                MessageBox.Show($"Ocurrió un error al insertar el cliente: {ex.Message}");
+            }
+        }
     }
 }

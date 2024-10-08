@@ -24,5 +24,10 @@ namespace AccesoDatos
             var clientes = from cm in contexto.Customers where cm.CustomerID == id select cm;
             return clientes.FirstOrDefault();
         }
+
+        public int InsertarCliente(Customers customers) { 
+        contexto.Customers.Add(customers);
+            return contexto.SaveChanges();
+        }
     }
 }
