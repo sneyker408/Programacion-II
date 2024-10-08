@@ -1,6 +1,7 @@
 ﻿using Dapper;
 using System;
 using System.Collections.Generic;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -9,6 +10,7 @@ namespace AccesoDatos
 {
     public class CustomerRepository
     {
+
         public List<Customers> ObtenerTodos()
         {
             using (var conexion = DataBase.GetSqlConnection())
@@ -32,5 +34,25 @@ namespace AccesoDatos
                 return cliente;
             }
         }
+
+        public Customers ObtenerPorID(string id)
+        {
+
+            using (var conexion = DataBase.GetSqlConnection())
+            {
+                string selectPorID = @"SELECT [CustomerID], [CompanyName], [ContactName], 
+                                          [ContactTitle], [Address], [City], [Region], 
+                                          [PostalCode], [Country], [Phone], [Fax] 
+                                   FROM [dbo].[Customers] 
+                                   WHERE [CustomerID] = @CustomerID";
+
+                // Ejecutamos la consulta y devolvemos el cliente
+                var cliente = conexion.QueryFirstOrDefault<Customers>(selectPorID, new { CustomerID = id });
+
+                return cliente;
+            }
+
+        }
+
     }
 }

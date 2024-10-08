@@ -32,5 +32,22 @@ namespace DapperDemo
             var cliente = customerR.ObtenerTodos();
             dgvCustomers.DataSource = cliente;
         }
+
+        private void btnObtenerId_Click(object sender, EventArgs e)
+        {
+            // Obtenemos el cliente por ID
+            var cliente = customerR.ObtenerPorID(tBoxOBtenerID.Text);
+
+            if (cliente != null)
+            {
+                // Asignamos el cliente a una lista para mostrar en el DataGridView
+                dgvCustomers.DataSource = new List<Customers> { cliente };
+            }
+            else
+            {
+                MessageBox.Show("Cliente no encontrado.");
+            }
+        }
+
     }
 }
