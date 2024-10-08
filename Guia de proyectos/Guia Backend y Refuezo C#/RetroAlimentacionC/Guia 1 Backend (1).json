@@ -1,0 +1,40 @@
+//Formato JSON
+
+{ // espacio de vida de las propiedades
+	  " Propiedad  ": "Valor Texto",
+	   " Propiedad  ":  10,
+	   " Propiedad  ": true
+}
+
+//Colección de objetos JSON
+
+[
+	{ // espacio de vida de las propiedades
+		  " Propiedad  ": "Valor Texto",
+		   " Propiedad  ":  10,
+		   " Propiedad  ": true
+	}, 
+		{ // espacio de vida de las propiedades
+		  " Propiedad  ": "Valor Texto",
+		   " Propiedad  ":  10,
+		   " Propiedad  ": true
+	},
+		{ // espacio de vida de las propiedades
+		  " Propiedad  ": "Valor Texto",
+		   " Propiedad  ":  10,
+		   " Propiedad  ": true
+	}
+]
+
+Json anidados
+
+	{ // espacio de vida de las propiedades
+		  " Propiedad  ": "Valor Texto",
+		   " Propiedad  ":  10,
+		   " Propiedad  ": true,
+		   "anidado"     : {espacio de vida de las propiedades
+						   " Propiedad  ": "Valor Texto",
+						   " Propiedad  ":  10,
+						   " Propiedad  ": true
+						   }
+	}
