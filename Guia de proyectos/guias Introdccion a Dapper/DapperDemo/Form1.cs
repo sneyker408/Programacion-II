@@ -48,6 +48,25 @@ namespace DapperDemo
                 MessageBox.Show("Cliente no encontrado.");
             }
         }
+        private Customers CrearCliente()
+        {
+            var nuevo = new Customers
+            {
+                CustomerID = txbCustomerId.Text,
+                CompanyName = txbCompanyName.Text,
+                ContactName = txbContactName.Text,
+                ContactTitle = txbContactTitle.Text,
+                Address = txbAddress.Text
+            };
+            return nuevo;
+        }
 
+
+        private void btnInsertar_Click(object sender, EventArgs e)
+        {
+            var nuevoCliente = CrearCliente();
+            var insertado = customerR.insertarCliente(nuevoCliente);
+            MessageBox.Show($"{insertado} registros insertados");
+        }
     }
 }
