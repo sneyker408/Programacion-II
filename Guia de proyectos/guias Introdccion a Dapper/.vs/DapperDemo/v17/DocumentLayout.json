@@ -1,21 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\DapperDesde0\\",
+  "WorkspaceRootPath": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\guias Introdccion a Dapper\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24139E2E-E8CA-479D-ADD0-5D60329B082B}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\sneyk\\onedrive\\im\u00E1genes\\escritorio\\dapperdesde0\\accesodatos\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24139E2E-E8CA-479D-ADD0-5D60329B082B}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84E6406A-3B46-482D-BB53-DBD480676553}|DapperDemo\\DapperDemo.csproj|c:\\users\\sneyk\\onedrive\\im\u00E1genes\\escritorio\\programacion-ii\\guia de proyectos\\guias introdccion a dapper\\dapperdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84E6406A-3B46-482D-BB53-DBD480676553}|DapperDemo\\DapperDemo.csproj|solutionrelative:dapperdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24139E2E-E8CA-479D-ADD0-5D60329B082B}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\sneyk\\onedrive\\im\u00E1genes\\escritorio\\dapperdesde0\\accesodatos\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24139E2E-E8CA-479D-ADD0-5D60329B082B}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24139E2E-E8CA-479D-ADD0-5D60329B082B}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\sneyk\\onedrive\\im\u00E1genes\\escritorio\\dapperdesde0\\accesodatos\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24139E2E-E8CA-479D-ADD0-5D60329B082B}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84E6406A-3B46-482D-BB53-DBD480676553}|DapperDemo\\DapperDemo.csproj|c:\\users\\sneyk\\onedrive\\im\u00E1genes\\escritorio\\dapperdesde0\\dapperdemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{84E6406A-3B46-482D-BB53-DBD480676553}|DapperDemo\\DapperDemo.csproj|C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\guias Introdccion a Dapper\\dapperdemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{84E6406A-3B46-482D-BB53-DBD480676553}|DapperDemo\\DapperDemo.csproj|solutionrelative:dapperdemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -39,53 +31,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CustomerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\DapperDesde0\\AccesoDatos\\CustomerRepository.cs",
-              "RelativeDocumentMoniker": "AccesoDatos\\CustomerRepository.cs",
-              "ToolTip": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\DapperDesde0\\AccesoDatos\\CustomerRepository.cs",
-              "RelativeToolTip": "AccesoDatos\\CustomerRepository.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\guias Introdccion a Dapper\\DapperDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "DapperDemo\\Form1.cs",
+              "ToolTip": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\guias Introdccion a Dapper\\DapperDemo\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "DapperDemo\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T03:09:03.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Customers.cs",
-              "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\DapperDesde0\\AccesoDatos\\Customers.cs",
-              "RelativeDocumentMoniker": "AccesoDatos\\Customers.cs",
-              "ToolTip": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\DapperDesde0\\AccesoDatos\\Customers.cs",
-              "RelativeToolTip": "AccesoDatos\\Customers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T03:08:59.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T03:16:58.861Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DataBase.cs",
-              "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\DapperDesde0\\AccesoDatos\\DataBase.cs",
-              "RelativeDocumentMoniker": "AccesoDatos\\DataBase.cs",
-              "ToolTip": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\DapperDesde0\\AccesoDatos\\DataBase.cs",
-              "RelativeToolTip": "AccesoDatos\\DataBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T03:08:50.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\DapperDesde0\\DapperDemo\\App.config",
+              "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\guias Introdccion a Dapper\\DapperDemo\\App.config",
               "RelativeDocumentMoniker": "DapperDemo\\App.config",
-              "ToolTip": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\DapperDesde0\\DapperDemo\\App.config",
+              "ToolTip": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\guias Introdccion a Dapper\\DapperDemo\\App.config",
               "RelativeToolTip": "DapperDemo\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-10-08T03:08:23.68Z",
+              "WhenOpened": "2024-10-08T03:16:31.539Z",
               "EditorCaption": ""
             }
           ]
