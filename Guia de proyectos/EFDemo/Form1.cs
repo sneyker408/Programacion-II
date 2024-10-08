@@ -34,6 +34,10 @@ namespace EFDemo
             var cliente = cr.ObtenerPorID(txbObtenerTodos.Text);
             List<Customers> lista1 = new List<Customers> { cliente
             };
+            if (cliente != null)
+            {
+                llenarCampos(cliente);
+            }
             dgvCustomers.DataSource = lista1;
 
         }
@@ -76,6 +80,25 @@ namespace EFDemo
                 // Capturamos cualquier error inesperado y mostramos el mensaje
                 MessageBox.Show($"Ocurrió un error al insertar el cliente: {ex.Message}");
             }
+        }
+
+        private void llenarCampos(Customers customers)
+        {
+            txbCustomerID.Text = customers.CustomerID;
+            txbCompanyName.Text = customers.CompanyName;
+            txbContactName.Text = customers.ContactName;
+            txbContactTitle.Text = customers.ContactTitle;
+            txbAddress.Text = customers.Address;
+        }
+
+        private void btnActualizar_Click(object sender, EventArgs e)
+        {
+            var cliente = crearCliente();
+            cr.UpdateClientes(cliente);
+            var resultado = cr.ObtenerPorID(cliente.CustomerID);
+            List<Customers> lista1 = new List<Customers> { 
+            };
+            dgvCustomers.DataSource = lista1;
         }
     }
 }
