@@ -18,5 +18,11 @@ namespace AccesoDatos
             return clientes.ToList();
 			
         }
+
+        public Customers ObtenerPorID(string id)
+        {
+            var clientes = from cm in contexto.Customers where cm.CustomerID == id select cm;
+            return clientes.FirstOrDefault();
+        }
     }
 }
