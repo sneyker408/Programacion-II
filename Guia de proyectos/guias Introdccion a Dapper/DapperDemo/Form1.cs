@@ -13,55 +13,53 @@ namespace DapperDemo
 {
     public partial class Form1 : Form
     {
-        //Fomr 1 
         CustomerRepository customerR = new CustomerRepository();
+
         public Form1()
         {
             InitializeComponent();
         }
 
-
-
         private void Form1_Load(object sender, EventArgs e)
         {
-            // objelo load aparece al precionar el bode azul del formulario 
+
         }
 
         private void btnObtenerTodos_Click(object sender, EventArgs e)
         {
             var cliente = customerR.ObtenerTodos();
-            dgvCustomers.DataSource = cliente;
+            dgvCustomers.DataSource = cliente;  
         }
 
         private void btnObtenerId_Click(object sender, EventArgs e)
         {
-            // Obtenemos el cliente por ID
-            var cliente = customerR.ObtenerPorID(tBoxOBtenerID.Text);
-
-            if (cliente != null)
-            {
-                // Asignamos el cliente a una lista para mostrar en el DataGridView
-                dgvCustomers.DataSource = new List<Customers> { cliente };
-            }
-            else
-            {
-                MessageBox.Show("Cliente no encontrado.");
-            }
+            var cliente = customerR.ObtenerPorID(tboxOBtenerID.Text);
+             dgvCustomers.DataSource = new List<Customers> { cliente };
         }
-        private Customers CrearCliente()
-        {
-            var nuevo = new Customers
-            {
+
+        private Customers CrearCliente() {
+            var nuevo = new Customers {
                 CustomerID = txbCustomerId.Text,
                 CompanyName = txbCompanyName.Text,
                 ContactName = txbContactName.Text,
-                ContactTitle = txbContactTitle.Text,
-                Address = txbAddress.Text
+                ContactTitle= tbxContactTitle.Text,
+                Address= txbAddress.Text
             };
             return nuevo;
         }
 
+        private void label4_Click(object sender, EventArgs e)
+        {
 
+        }
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
         private void btnInsertar_Click(object sender, EventArgs e)
         {
             var nuevoCliente = CrearCliente();

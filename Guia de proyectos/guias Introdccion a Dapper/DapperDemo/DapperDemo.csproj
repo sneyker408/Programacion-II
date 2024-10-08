@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{29F6B017-4489-43D1-92B3-A261D1C649BC}</ProjectGuid>
+    <ProjectGuid>{84E6406A-3B46-482D-BB53-DBD480676553}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>DapperDemo</RootNamespace>
     <AssemblyName>DapperDemo</AssemblyName>
@@ -34,7 +34,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
-    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -82,7 +81,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\AccesoDatos\AccesoDatos.csproj">
-      <Project>{7109f45b-8a2c-4950-bc7b-fa913dc02a54}</Project>
+      <Project>{24139e2e-e8ca-479d-add0-5d60329b082b}</Project>
       <Name>AccesoDatos</Name>
     </ProjectReference>
   </ItemGroup>
