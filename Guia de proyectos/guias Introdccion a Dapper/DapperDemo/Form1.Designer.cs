@@ -198,7 +198,7 @@
             // 
             // btnEliminar
             // 
-            this.btnEliminar.Location = new System.Drawing.Point(278, 438);
+            this.btnEliminar.Location = new System.Drawing.Point(278, 441);
             this.btnEliminar.Name = "btnEliminar";
             this.btnEliminar.Size = new System.Drawing.Size(95, 34);
             this.btnEliminar.TabIndex = 17;
