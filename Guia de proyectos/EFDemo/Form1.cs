@@ -35,6 +35,7 @@ namespace EFDemo
             List<Customers> lista1 = new List<Customers> { cliente
             };
             dgvCustomers.DataSource = lista1;
+
         }
     }
 }
