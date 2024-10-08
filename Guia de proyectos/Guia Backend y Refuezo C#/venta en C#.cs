@@ -1,5 +1,4 @@
-﻿Codigo de la guia 
-using System.Numerics;
+﻿using System.Numerics;
 using System.Security.Cryptography;
 using System.Text.Json;
 using static System.Runtime.InteropServices.JavaScript.JSType;
