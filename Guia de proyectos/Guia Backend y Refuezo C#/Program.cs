@@ -17,6 +17,7 @@ var valor = ejemplo.total(400m, 0.13m);
 Console.WriteLine(valor);
 ejemplo.mostrar(valor);
 
+
 var numbers = new MyList<int>(5);
 numbers.Add(1);
 numbers.Add(2);
