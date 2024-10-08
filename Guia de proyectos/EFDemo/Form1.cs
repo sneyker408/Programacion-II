@@ -100,5 +100,11 @@ namespace EFDemo
             };
             dgvCustomers.DataSource = lista1;
         }
+
+        private void btnBorrar_Click_1(object sender, EventArgs e)
+        {
+            var eliminadas = cr.DeleteCliente(txbCustomerID.Text);
+            MessageBox.Show($"Se extermino la fila {eliminadas}");
+        }
     }
 }
