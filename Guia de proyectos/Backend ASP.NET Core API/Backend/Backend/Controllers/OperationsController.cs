@@ -9,9 +9,24 @@ namespace Backend.Controllers
     {
         [HttpGet]
 
-        public decimal add(decimal a, decimal b)
+        public decimal Get(decimal a, decimal b)
         {
             return a + b;
+        }
+        [HttpPost]
+        public decimal Add(decimal a, decimal b)
+        {
+            return a - b;
+        }
+        [HttpPut]
+        public decimal Multiplicar(decimal a, decimal b)
+        {
+            return a * b;
+        }
+        [HttpDelete]
+        public decimal Nmas1(decimal a, decimal b)
+        {
+            return a * ( b + 1);
         }
     }
 }
