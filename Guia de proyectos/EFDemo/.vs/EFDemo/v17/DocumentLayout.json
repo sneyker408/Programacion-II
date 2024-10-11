@@ -3,19 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\EFDemo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FEF4F6A8-BF72-4943-8D4C-919E549D974C}|..\\AccesoDatos\\AccesoDatos.csproj|c:\\users\\sneyk\\onedrive\\im\u00E1genes\\escritorio\\programacion-ii\\guia de proyectos\\accesodatos\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{38EDDABE-027B-4318-8E70-88C2C42B5A47}|EFDemo.csproj|c:\\users\\sneyk\\onedrive\\im\u00E1genes\\escritorio\\programacion-ii\\guia de proyectos\\efdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38EDDABE-027B-4318-8E70-88C2C42B5A47}|EFDemo.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38EDDABE-027B-4318-8E70-88C2C42B5A47}|EFDemo.csproj|C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\EFDemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{38EDDABE-027B-4318-8E70-88C2C42B5A47}|EFDemo.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEF4F6A8-BF72-4943-8D4C-919E549D974C}|..\\AccesoDatos\\AccesoDatos.csproj|c:\\users\\sneyk\\onedrive\\im\u00E1genes\\escritorio\\programacion-ii\\guia de proyectos\\accesodatos\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FEF4F6A8-BF72-4943-8D4C-919E549D974C}|..\\AccesoDatos\\AccesoDatos.csproj|c:\\users\\sneyk\\onedrive\\im\u00E1genes\\escritorio\\programacion-ii\\guia de proyectos\\accesodatos\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38EDDABE-027B-4318-8E70-88C2C42B5A47}|EFDemo.csproj|C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\EFDemo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38EDDABE-027B-4318-8E70-88C2C42B5A47}|EFDemo.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EDDABE-027B-4318-8E70-88C2C42B5A47}|EFDemo.csproj|C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\EFDemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{38EDDABE-027B-4318-8E70-88C2C42B5A47}|EFDemo.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38EDDABE-027B-4318-8E70-88C2C42B5A47}|EFDemo.csproj|C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\EFDemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -54,32 +57,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "App.Config",
+              "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\AccesoDatos\\App.Config",
+              "RelativeDocumentMoniker": "..\\AccesoDatos\\App.Config",
+              "ToolTip": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\AccesoDatos\\App.Config",
+              "RelativeToolTip": "..\\AccesoDatos\\App.Config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-09T05:24:55.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "CustomerRepository.cs",
               "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\AccesoDatos\\CustomerRepository.cs",
               "RelativeDocumentMoniker": "..\\AccesoDatos\\CustomerRepository.cs",
               "ToolTip": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\AccesoDatos\\CustomerRepository.cs",
               "RelativeToolTip": "..\\AccesoDatos\\CustomerRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAcwC0AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T22:04:22.673Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\EFDemo\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\EFDemo\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAtwGUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAuwGkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T21:59:26.753Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\EFDemo\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -97,27 +113,27 @@
               "RelativeDocumentMoniker": "Form1.Designer.cs",
               "ToolTip": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\EFDemo\\Form1.Designer.cs",
               "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAzwEsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAwEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-08T19:38:50.103Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\EFDemo\\App.config",
               "RelativeDocumentMoniker": "App.config",
               "ToolTip": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\EFDemo\\App.config",
               "RelativeToolTip": "App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2024-09-20T21:51:52.935Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Northwind.Context.cs",
               "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Semana 1\\AccesoDatos\\Northwind.Context.cs",
               "RelativeDocumentMoniker": "..\\Semana 1\\AccesoDatos\\Northwind.Context.cs",
@@ -128,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Northwind.edmx",
               "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Semana 1\\AccesoDatos\\Northwind.edmx",
               "RelativeDocumentMoniker": "..\\Semana 1\\AccesoDatos\\Northwind.edmx",
@@ -139,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "App.Config",
               "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Semana 1\\AccesoDatos\\App.Config",
               "RelativeDocumentMoniker": "..\\Semana 1\\AccesoDatos\\App.Config",
@@ -150,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "CustomerRepository.cs",
               "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Semana 1\\AccesoDatos\\CustomerRepository.cs",
               "RelativeDocumentMoniker": "..\\Semana 1\\AccesoDatos\\CustomerRepository.cs",
