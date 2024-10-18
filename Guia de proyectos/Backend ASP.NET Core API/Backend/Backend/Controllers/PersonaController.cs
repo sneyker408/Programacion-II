@@ -8,7 +8,7 @@ namespace Backend.Controllers
     [ApiController]
     public class PersonaController : ControllerBase
     {
-        [HttpGet("all")]
-        public List<PersonaDatos> GetPersonaDatos() => Repository.persona;
+        [HttpGet("search/{search}")]
+        public List<PersonaDatos> GetPersonaDatos(string search) => Repository.persona.Where(p => p.name.ToUpper().Contains(search.ToUpper())).ToList();
     }
 }

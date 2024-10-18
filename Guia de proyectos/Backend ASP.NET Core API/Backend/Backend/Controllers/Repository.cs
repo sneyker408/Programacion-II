@@ -16,13 +16,13 @@ namespace Backend.Controllers
         {
             id = 2,
             age = new DateTime(1994, 09, 03),
-            name = "Elver Galarga"
+            name = "Erick Diaz"
         },
         new PersonaDatos()
         {
             id = 3,
             age = new DateTime(1994, 11, 03),
-            name = "Seria"
+            name = "xd"
         }
 
         };
@@ -33,7 +33,6 @@ namespace Backend.Controllers
         public int id { get; set; }
         public string name { get; set; }
         public DateTime age { get; set; }
-        public string email { get; set; }
 
     }
 }
