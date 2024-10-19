@@ -3,12 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Backend ASP.NET Core API\\Backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{91CE324A-3BDE-4647-BE49-26E765FA9A85}|Backend\\Backend.csproj|c:\\users\\sneyk\\onedrive\\im\u00E1genes\\escritorio\\programacion-ii\\guia de proyectos\\backend asp.net core api\\backend\\backend\\services\\randomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91CE324A-3BDE-4647-BE49-26E765FA9A85}|Backend\\Backend.csproj|solutionrelative:backend\\services\\randomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91CE324A-3BDE-4647-BE49-26E765FA9A85}|Backend\\Backend.csproj|c:\\users\\sneyk\\onedrive\\im\u00E1genes\\escritorio\\programacion-ii\\guia de proyectos\\backend asp.net core api\\backend\\backend\\services\\irandomservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91CE324A-3BDE-4647-BE49-26E765FA9A85}|Backend\\Backend.csproj|solutionrelative:backend\\services\\irandomservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91CE324A-3BDE-4647-BE49-26E765FA9A85}|Backend\\Backend.csproj|c:\\users\\sneyk\\onedrive\\im\u00E1genes\\escritorio\\programacion-ii\\guia de proyectos\\backend asp.net core api\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91CE324A-3BDE-4647-BE49-26E765FA9A85}|Backend\\Backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{91CE324A-3BDE-4647-BE49-26E765FA9A85}|Backend\\Backend.csproj|c:\\users\\sneyk\\onedrive\\im\u00E1genes\\escritorio\\programacion-ii\\guia de proyectos\\backend asp.net core api\\backend\\backend\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91CE324A-3BDE-4647-BE49-26E765FA9A85}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{91CE324A-3BDE-4647-BE49-26E765FA9A85}|Backend\\Backend.csproj|c:\\users\\sneyk\\onedrive\\im\u00E1genes\\escritorio\\programacion-ii\\guia de proyectos\\backend asp.net core api\\backend\\backend\\controllers\\randomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91CE324A-3BDE-4647-BE49-26E765FA9A85}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\randomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91CE324A-3BDE-4647-BE49-26E765FA9A85}|Backend\\Backend.csproj|c:\\users\\sneyk\\onedrive\\im\u00E1genes\\escritorio\\programacion-ii\\guia de proyectos\\backend asp.net core api\\backend\\backend\\controllers\\operationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91CE324A-3BDE-4647-BE49-26E765FA9A85}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\operationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91CE324A-3BDE-4647-BE49-26E765FA9A85}|Backend\\Backend.csproj|c:\\users\\sneyk\\onedrive\\im\u00E1genes\\escritorio\\programacion-ii\\guia de proyectos\\backend asp.net core api\\backend\\backend\\services\\personaservice2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91CE324A-3BDE-4647-BE49-26E765FA9A85}|Backend\\Backend.csproj|solutionrelative:backend\\services\\personaservice2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91CE324A-3BDE-4647-BE49-26E765FA9A85}|Backend\\Backend.csproj|c:\\users\\sneyk\\onedrive\\im\u00E1genes\\escritorio\\programacion-ii\\guia de proyectos\\backend asp.net core api\\backend\\backend\\controllers\\numbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91CE324A-3BDE-4647-BE49-26E765FA9A85}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\numbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{91CE324A-3BDE-4647-BE49-26E765FA9A85}|Backend\\Backend.csproj|c:\\users\\sneyk\\onedrive\\im\u00E1genes\\escritorio\\programacion-ii\\guia de proyectos\\backend asp.net core api\\backend\\backend\\controllers\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91CE324A-3BDE-4647-BE49-26E765FA9A85}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91CE324A-3BDE-4647-BE49-26E765FA9A85}|Backend\\Backend.csproj|c:\\users\\sneyk\\onedrive\\im\u00E1genes\\escritorio\\programacion-ii\\guia de proyectos\\backend asp.net core api\\backend\\backend\\services\\ipersonaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91CE324A-3BDE-4647-BE49-26E765FA9A85}|Backend\\Backend.csproj|solutionrelative:backend\\services\\ipersonaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91CE324A-3BDE-4647-BE49-26E765FA9A85}|Backend\\Backend.csproj|c:\\users\\sneyk\\onedrive\\im\u00E1genes\\escritorio\\programacion-ii\\guia de proyectos\\backend asp.net core api\\backend\\backend\\services\\personaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91CE324A-3BDE-4647-BE49-26E765FA9A85}|Backend\\Backend.csproj|solutionrelative:backend\\services\\personaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,29 +66,142 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Backend ASP.NET Core API\\Backend\\Backend\\Controllers\\Repository.cs",
-              "RelativeDocumentMoniker": "Backend\\Controllers\\Repository.cs",
-              "ToolTip": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Backend ASP.NET Core API\\Backend\\Backend\\Controllers\\Repository.cs",
-              "RelativeToolTip": "Backend\\Controllers\\Repository.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAIAwwCEAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "RandomController.cs",
+              "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Backend ASP.NET Core API\\Backend\\Backend\\Controllers\\RandomController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\RandomController.cs",
+              "ToolTip": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Backend ASP.NET Core API\\Backend\\Backend\\Controllers\\RandomController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\RandomController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T00:49:23.035Z",
+              "WhenOpened": "2024-10-19T03:22:59.14Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "IRandomServices.cs",
+              "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Backend ASP.NET Core API\\Backend\\Backend\\Services\\IRandomServices.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\IRandomServices.cs",
+              "ToolTip": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Backend ASP.NET Core API\\Backend\\Backend\\Services\\IRandomServices.cs",
+              "RelativeToolTip": "Backend\\Services\\IRandomServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:12:21.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "PersonaController.cs",
               "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Backend ASP.NET Core API\\Backend\\Backend\\Controllers\\PersonaController.cs",
               "RelativeDocumentMoniker": "Backend\\Controllers\\PersonaController.cs",
               "ToolTip": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Backend ASP.NET Core API\\Backend\\Backend\\Controllers\\PersonaController.cs",
               "RelativeToolTip": "Backend\\Controllers\\PersonaController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T00:45:17.886Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RandomService.cs",
+              "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Backend ASP.NET Core API\\Backend\\Backend\\Services\\RandomService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\RandomService.cs",
+              "ToolTip": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Backend ASP.NET Core API\\Backend\\Backend\\Services\\RandomService.cs",
+              "RelativeToolTip": "Backend\\Services\\RandomService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:14:22.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Backend ASP.NET Core API\\Backend\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Backend ASP.NET Core API\\Backend\\Backend\\Program.cs",
+              "RelativeToolTip": "Backend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:33:58.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OperationsController.cs",
+              "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Backend ASP.NET Core API\\Backend\\Backend\\Controllers\\OperationsController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\OperationsController.cs",
+              "ToolTip": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Backend ASP.NET Core API\\Backend\\Backend\\Controllers\\OperationsController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\OperationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:35:22.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonaService2.cs",
+              "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Backend ASP.NET Core API\\Backend\\Backend\\Services\\PersonaService2.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\PersonaService2.cs",
+              "ToolTip": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Backend ASP.NET Core API\\Backend\\Backend\\Services\\PersonaService2.cs",
+              "RelativeToolTip": "Backend\\Services\\PersonaService2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:40:49.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Numbers.cs",
+              "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Backend ASP.NET Core API\\Backend\\Backend\\Controllers\\Numbers.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\Numbers.cs",
+              "ToolTip": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Backend ASP.NET Core API\\Backend\\Backend\\Controllers\\Numbers.cs",
+              "RelativeToolTip": "Backend\\Controllers\\Numbers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:35:25.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PersonaService.cs",
+              "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Backend ASP.NET Core API\\Backend\\Backend\\Services\\PersonaService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\PersonaService.cs",
+              "ToolTip": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Backend ASP.NET Core API\\Backend\\Backend\\Services\\PersonaService.cs",
+              "RelativeToolTip": "Backend\\Services\\PersonaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:21:32.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPersonaServices.cs",
+              "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Backend ASP.NET Core API\\Backend\\Backend\\Services\\IPersonaServices.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\IPersonaServices.cs",
+              "ToolTip": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Backend ASP.NET Core API\\Backend\\Backend\\Services\\IPersonaServices.cs",
+              "RelativeToolTip": "Backend\\Services\\IPersonaServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:20:17.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Backend ASP.NET Core API\\Backend\\Backend\\Controllers\\Repository.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\Repository.cs",
+              "ToolTip": "C:\\Users\\sneyk\\OneDrive\\Im\u00E1genes\\Escritorio\\Programacion-II\\Guia de proyectos\\Backend ASP.NET Core API\\Backend\\Backend\\Controllers\\Repository.cs",
+              "RelativeToolTip": "Backend\\Controllers\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:49:23.035Z"
             }
           ]
         }
